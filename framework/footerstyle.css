@@ -1,0 +1,23 @@
+.footer {
+    font-family: 'Roboto', sans-serif;
+    background-color: #34495e;
+    color: #ffffff; 
+    padding: 10px 0; 
+    text-align: center; 
+    width: 100%; 
+    position: fixed; 
+    bottom: 0; 
+}
+
+.footer p {
+    margin-bottom: 0; 
+    color: #ffffff;
+}
+
+.footer a {
+    color: #ffffff; 
+}
+
+.footer a:hover {
+    color: #f39c12; 
+}

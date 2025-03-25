@@ -1,0 +1,29 @@
+.navbar {
+    font-family: 'Roboto', sans-serif;
+    padding: 1rem 2rem;
+    background-color: #34495e;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 20px;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff; 
+    font-size: 1.2rem; 
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    font-weight: bold;
+    text-decoration: underline;
+    border-radius: 5px;
+}
